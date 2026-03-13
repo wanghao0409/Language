@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "词汇积累.md",
+                "file": "English/0. 发音Pronunciation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "词汇积累"
+              "title": "0. 发音Pronunciation"
             }
           }
         ],
@@ -116,8 +116,24 @@
               "icon": "lucide-bookmark",
               "title": "书签"
             }
+          },
+          {
+            "id": "26435daae68af8e5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "English/0. 发音Pronunciation.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "0. 发音Pronunciation 的大纲"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -229,10 +245,10 @@
   },
   "active": "dadeba33f4ed7cd7",
   "lastOpenFiles": [
-    "English/3. 后缀.md",
     "词汇积累.md",
+    "English/3. 后缀.md",
     "README.md",
-    "English/0. 发音.md",
+    "English/0. 发音Pronunciation.md",
     "English/1. 前缀.md",
     "English/2. 词根.md",
     "未命名",
