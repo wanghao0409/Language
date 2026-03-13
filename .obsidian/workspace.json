@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/0. 发音Pronunciation.md",
+                "file": "词汇Word.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. 发音Pronunciation"
+              "title": "词汇Word"
             }
           }
         ],
@@ -123,17 +123,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/0. 发音Pronunciation.md",
+                "file": "词汇Word.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "0. 发音Pronunciation 的大纲"
+              "title": "词汇Word 的大纲"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -245,10 +244,10 @@
   },
   "active": "dadeba33f4ed7cd7",
   "lastOpenFiles": [
-    "词汇积累.md",
+    "English/0. 发音Pronunciation.md",
+    "词汇Word.md",
     "English/3. 后缀.md",
     "README.md",
-    "English/0. 发音Pronunciation.md",
     "English/1. 前缀.md",
     "English/2. 词根.md",
     "未命名",
