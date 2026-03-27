@@ -6,7 +6,7 @@
       {
         "id": "35634c6b00fb9a60",
         "type": "tabs",
-        "dimension": 26.33248730964467,
+        "dimension": 23.096446700507613,
         "children": [
           {
             "id": "2948922c539dcb83",
@@ -21,20 +21,6 @@
               },
               "icon": "lucide-list",
               "title": "Grammar语法 的大纲"
-            }
-          },
-          {
-            "id": "c2a96ea80e24c5b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/Section3-Sentence/Grammar语法.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Grammar语法"
             }
           },
           {
@@ -56,7 +42,7 @@
       {
         "id": "019950fdff352518",
         "type": "tabs",
-        "dimension": 73.66751269035532,
+        "dimension": 76.90355329949239,
         "children": [
           {
             "id": "ba2126541f428a7d",
@@ -237,11 +223,11 @@
   },
   "active": "ba2126541f428a7d",
   "lastOpenFiles": [
+    "English/Section2-Words/4.Word词汇.md",
+    "English/Section3-Sentence/Grammar语法.md",
     "English/Section1-Pronunciation/1. 音标Pronunciation.md",
     "English/Section2-Words/2. 词根.md",
-    "English/Section3-Sentence/Grammar语法.md",
     "README.md",
-    "English/Section2-Words/4.Word词汇.md",
     "English/Section2-Words/1. 前缀.md",
     "English/Section3-Sentence",
     "English/Section1-Pronunciation",
