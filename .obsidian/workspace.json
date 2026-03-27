@@ -6,7 +6,7 @@
       {
         "id": "051fe87c7cb0a50a",
         "type": "tabs",
-        "dimension": 23.98477157360406,
+        "dimension": 19.606598984771573,
         "children": [
           {
             "id": "7f2180aede42c4c6",
@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Section1-Pronunciation/1. 音标Pronunciation.md",
+                "file": "English/Section3-Sentence/Grammar语法.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "1. 音标Pronunciation 的大纲"
+              "title": "Grammar语法 的大纲"
             }
           },
           {
@@ -81,7 +81,7 @@
       {
         "id": "35634c6b00fb9a60",
         "type": "tabs",
-        "dimension": 76.01522842639594,
+        "dimension": 80.39340101522842,
         "children": [
           {
             "id": "55c46b5f11dc0b24",
@@ -118,12 +118,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Section1-Pronunciation/1. 音标Pronunciation.md",
+                "file": "English/Section3-Sentence/Grammar语法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. 音标Pronunciation"
+              "title": "Grammar语法"
             }
           }
         ],
@@ -290,10 +290,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "35cf94de91012bd5",
+  "active": "c2a96ea80e24c5b8",
   "lastOpenFiles": [
-    "English/Section2-Words/1. 前缀.md",
     "English/Section1-Pronunciation/1. 音标Pronunciation.md",
+    "English/Section2-Words/1. 前缀.md",
     "English/Section3-Sentence/Grammar语法.md",
     "English/Section2-Words/2. 词根.md",
     "English/Section3-Sentence",
