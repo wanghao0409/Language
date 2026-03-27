@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Section2-Words/4.Word词汇.md",
+                "file": "English/Section3-Sentence/Grammar语法.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "4.Word词汇 的大纲"
+              "title": "Grammar语法 的大纲"
             }
           },
           {
@@ -50,12 +50,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Section2-Words/4.Word词汇.md",
+                "file": "English/Section3-Sentence/Grammar语法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.Word词汇"
+              "title": "Grammar语法"
             }
           }
         ]
@@ -223,8 +223,8 @@
   },
   "active": "ba2126541f428a7d",
   "lastOpenFiles": [
-    "English/Section3-Sentence/Grammar语法.md",
     "English/Section2-Words/4.Word词汇.md",
+    "English/Section3-Sentence/Grammar语法.md",
     "English/Section1-Pronunciation/1. 音标Pronunciation.md",
     "English/Section2-Words/2. 词根.md",
     "README.md",
