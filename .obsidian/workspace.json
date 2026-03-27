@@ -14,13 +14,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/词汇Word.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "词汇Word 的大纲"
+              "title": "大纲"
             }
           },
           {
