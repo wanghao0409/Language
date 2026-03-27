@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Section2-Words & Morphology/4.Words 词汇积累.md",
+                "file": "English/Section1-Pronunciation & Read/1. 音标Pronunciation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "4.Words 词汇积累 的大纲"
+              "title": "1. 音标Pronunciation 的大纲"
             }
           },
           {
@@ -50,12 +50,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Section2-Words & Morphology/4.Words 词汇积累.md",
+                "file": "English/Section1-Pronunciation & Read/1. 音标Pronunciation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.Words 词汇积累"
+              "title": "1. 音标Pronunciation"
             }
           }
         ]
@@ -223,8 +223,8 @@
   },
   "active": "ba2126541f428a7d",
   "lastOpenFiles": [
-    "English/Section2-Words & Morphology/3. 后缀.md",
     "English/Section2-Words & Morphology/4.Words 词汇积累.md",
+    "English/Section2-Words & Morphology/3. 后缀.md",
     "English/Section2-Words & Morphology/2. 词根.md",
     "English/Section2-Words & Morphology/1. 前缀.md",
     "English/Section1-Pronunciation & Read/1. 音标Pronunciation.md",
