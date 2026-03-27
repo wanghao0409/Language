@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/1.Pronunciation/1. 音标Pronunciation.md",
+                "file": "English/Section1-Pronunciation/1. 音标Pronunciation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -104,7 +104,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/1.Pronunciation/1. 音标Pronunciation.md",
+                "file": "English/Section1-Pronunciation/1. 音标Pronunciation.md",
                 "mode": "source",
                 "source": false
               },
@@ -118,7 +118,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/1.Pronunciation/1. 音标Pronunciation.md",
+                "file": "English/Section1-Pronunciation/1. 音标Pronunciation.md",
                 "mode": "source",
                 "source": false
               },
@@ -290,17 +290,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c2a96ea80e24c5b8",
+  "active": "35cf94de91012bd5",
   "lastOpenFiles": [
-    "English/2.Word/1. 前缀.md",
-    "English/1.Pronunciation/1. 音标Pronunciation.md",
-    "English/3.Sentence/Grammar语法.md",
-    "English/2.Word/2. 词根.md",
-    "English/3.Sentence",
-    "English/1.Pronunciation",
-    "English/2.Word/4.Word词汇.md",
-    "English/2.Word",
-    "English/2.Word/3. 后缀.md",
+    "English/Section2-Words/1. 前缀.md",
+    "English/Section1-Pronunciation/1. 音标Pronunciation.md",
+    "English/Section3-Sentence/Grammar语法.md",
+    "English/Section2-Words/2. 词根.md",
+    "English/Section3-Sentence",
+    "English/Section1-Pronunciation",
+    "English/Section2-Words/4.Word词汇.md",
+    "English/Section2-Words",
+    "English/Section2-Words/3. 后缀.md",
     "한국어",
     "日本語",
     "README.md",
