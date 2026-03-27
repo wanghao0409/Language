@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Sentence/Grammar语法.md",
+                "file": "English/1.Pronunciation/1. 音标Pronunciation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Grammar语法 的大纲"
+              "title": "1. 音标Pronunciation 的大纲"
             }
           },
           {
@@ -104,12 +104,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Pronunciation/0. 音标Pronunciation.md",
+                "file": "English/1.Pronunciation/1. 音标Pronunciation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. 音标Pronunciation"
+              "title": "1. 音标Pronunciation"
             }
           },
           {
@@ -118,12 +118,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Sentence/Grammar语法.md",
+                "file": "English/1.Pronunciation/1. 音标Pronunciation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Grammar语法"
+              "title": "1. 音标Pronunciation"
             }
           }
         ],
@@ -292,17 +292,17 @@
   },
   "active": "c2a96ea80e24c5b8",
   "lastOpenFiles": [
-    "English/Word/2. 词根.md",
-    "English/Sentence/Grammar语法.md",
-    "English/Pronunciation/0. 音标Pronunciation.md",
-    "English/Sentence",
-    "English/Pronunciation",
-    "English/Word/4.Word词汇.md",
-    "English/Word",
-    "English/Word/3. 后缀.md",
+    "English/2.Word/1. 前缀.md",
+    "English/1.Pronunciation/1. 音标Pronunciation.md",
+    "English/3.Sentence/Grammar语法.md",
+    "English/2.Word/2. 词根.md",
+    "English/3.Sentence",
+    "English/1.Pronunciation",
+    "English/2.Word/4.Word词汇.md",
+    "English/2.Word",
+    "English/2.Word/3. 后缀.md",
     "한국어",
     "日本語",
-    "English/Word/1. 前缀.md",
     "README.md",
     "English"
   ]
