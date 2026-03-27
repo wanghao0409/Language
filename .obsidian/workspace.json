@@ -4,112 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "051fe87c7cb0a50a",
-        "type": "tabs",
-        "dimension": 19.606598984771573,
-        "children": [
-          {
-            "id": "7f2180aede42c4c6",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "English/Section3-Sentence/Grammar语法.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Grammar语法 的大纲"
-            }
-          },
-          {
-            "id": "26435daae68af8e5",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "English/词汇Word.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "词汇Word 的大纲"
-            }
-          },
-          {
-            "id": "2122ebb10c25e6cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "32aeb4c8bf236d39",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
-            }
-          },
-          {
-            "id": "6db554d14c083af5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/3. 后缀.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3. 后缀"
-            }
-          }
-        ]
-      },
-      {
         "id": "35634c6b00fb9a60",
         "type": "tabs",
-        "dimension": 80.39340101522842,
         "children": [
           {
-            "id": "55c46b5f11dc0b24",
+            "id": "2948922c539dcb83",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/词汇Word.md",
+                "file": "English/Section1-Pronunciation/1. 音标Pronunciation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "词汇Word 的大纲"
-            }
-          },
-          {
-            "id": "dadeba33f4ed7cd7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/Section1-Pronunciation/1. 音标Pronunciation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. 音标Pronunciation"
+              "title": "1. 音标Pronunciation 的大纲"
             }
           },
           {
@@ -124,6 +34,20 @@
               },
               "icon": "lucide-file",
               "title": "Grammar语法"
+            }
+          },
+          {
+            "id": "dadeba33f4ed7cd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English/Section1-Pronunciation/1. 音标Pronunciation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. 音标Pronunciation"
             }
           }
         ],
@@ -290,11 +214,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c2a96ea80e24c5b8",
+  "active": "dadeba33f4ed7cd7",
   "lastOpenFiles": [
-    "English/Section2-Words/4.Word词汇.md",
     "English/Section3-Sentence/Grammar语法.md",
     "English/Section1-Pronunciation/1. 音标Pronunciation.md",
+    "README.md",
+    "English/Section2-Words/4.Word词汇.md",
     "English/Section2-Words/1. 前缀.md",
     "English/Section2-Words/2. 词根.md",
     "English/Section3-Sentence",
@@ -303,7 +228,6 @@
     "English/Section2-Words/3. 后缀.md",
     "한국어",
     "日本語",
-    "README.md",
     "English"
   ]
 }
