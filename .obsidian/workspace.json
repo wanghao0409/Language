@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "한국어/韩语基础.md",
+                "file": "English/Section1-Pronunciation & Read/1. 音标Pronunciation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "韩语基础 的大纲"
+              "title": "1. 音标Pronunciation 的大纲"
             }
           },
           {
@@ -50,12 +50,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "한국어/韩语基础.md",
+                "file": "English/Section1-Pronunciation & Read/1. 音标Pronunciation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "韩语基础"
+              "title": "1. 音标Pronunciation"
             }
           }
         ]
@@ -233,8 +233,8 @@
   },
   "active": "ba2126541f428a7d",
   "lastOpenFiles": [
-    "汉语/汉语基础.md",
     "한국어/韩语基础.md",
+    "汉语/汉语基础.md",
     "日本語/五十音图.md",
     "语言学/语言学基础.md",
     "English/Section2-Words & Morphology/2. 词根.md",
