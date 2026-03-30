@@ -1,0 +1,261 @@
+{
+  "main": {
+    "id": "34b02ef1611857fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "35634c6b00fb9a60",
+        "type": "tabs",
+        "dimension": 23.096446700507613,
+        "children": [
+          {
+            "id": "2948922c539dcb83",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "English/Section1-Pronunciation & Read/1. 音标Pronunciation.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "1. 音标Pronunciation 的大纲"
+            }
+          },
+          {
+            "id": "dadeba33f4ed7cd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English/Section1-Pronunciation & Read/1. 音标Pronunciation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. 音标Pronunciation"
+            }
+          }
+        ]
+      },
+      {
+        "id": "019950fdff352518",
+        "type": "tabs",
+        "dimension": 76.90355329949239,
+        "children": [
+          {
+            "id": "ba2126541f428a7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English/Section1-Pronunciation & Read/1. 音标Pronunciation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. 音标Pronunciation"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b6778c8d53867792",
+    "type": "split",
+    "children": [
+      {
+        "id": "97f694bef78375a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35cf94de91012bd5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "6ca4ced9f4477a39",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "e6ae246b7727c069",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8ab206e28fe07730",
+    "type": "split",
+    "children": [
+      {
+        "id": "8acd13cef29aee41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "873fc88f3f5fbcf1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "English/词根.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "词根 的反向链接列表"
+            }
+          },
+          {
+            "id": "27e72f805cb6233c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "English/词根.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "词根 的出链列表"
+            }
+          },
+          {
+            "id": "0193dbab641c144c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "9e522ac29f0f993c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "6f69c5379cb3621c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "English/词根.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "词根 的大纲"
+            }
+          },
+          {
+            "id": "6a5e6fdf7bded69e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "ba2126541f428a7d",
+  "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "English/Section1-Pronunciation & Read/1. 音标Pronunciation.md",
+    "한국어/韩语基础.md",
+    "汉语/汉语基础.md",
+    "日本語/五十音图.md",
+    "语言学/语言学基础.md",
+    "English/Section2-Words & Morphology/2. 词根.md",
+    "English/Section2-Words & Morphology/3. 后缀.md",
+    "English/Section3-Sentence & Grammar/2. 时态和语态.md",
+    "English/Section3-Sentence & Grammar/1. 句子成分和句型.md",
+    "English/Section2-Words & Morphology/4.Words 词汇积累.md",
+    "English/Section2-Words & Morphology/1. 前缀.md",
+    "English/Section3-Sentence & Grammar/3. 非谓语动词和情态动词.md",
+    "English/Section3-Sentence & Grammar/5. 特殊句式.md",
+    "English/Section3-Sentence & Grammar/4. 从句体系.md",
+    "语言学",
+    "汉语",
+    "README.md",
+    "English/Section3-Sentence & Grammar",
+    "English/Section1-Pronunciation & Read",
+    "English/Section2-Words & Morphology",
+    "한국어",
+    "日本語",
+    "English"
+  ]
+}
