@@ -2,7 +2,7 @@
   "cssTheme": "Things",
   "theme": "moonstone",
   "enabledCssSnippets": [
-    "Custom-Line-Height",
-    "custom-underline"
+    "custom-underline",
+    "Custom-Line-Height"
   ]
 }
