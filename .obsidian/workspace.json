@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Section3-Sentence & Grammar/5. 特殊句式.md",
+                "file": "English/Section2-Words & Morphology/4. 词性.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "5. 特殊句式 的大纲"
+              "title": "4. 词性 的大纲"
             }
           },
           {
@@ -50,12 +50,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Section3-Sentence & Grammar/5. 特殊句式.md",
+                "file": "English/Section2-Words & Morphology/4. 词性.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. 特殊句式"
+              "title": "4. 词性"
             }
           }
         ]
@@ -231,25 +231,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "35cf94de91012bd5",
+  "active": "ba2126541f428a7d",
   "lastOpenFiles": [
+    "English/Section3-Sentence & Grammar/1. 句子成分和句型.md",
+    "English/Section3-Sentence & Grammar/2. 时态和语态.md",
+    "English/Section2-Words & Morphology/4. 词性.md",
+    "English/Section4-Chunking/Chunks.md",
+    "English/Section3-Sentence & Grammar/5. 特殊句式.md",
     "English/Section2-Words & Morphology/3. 后缀.md",
     "English/Section2-Words & Morphology/1. 前缀.md",
     "English/Section1-Pronunciation & Read/1. 音标Pronunciation.md",
     "语言学/语言学基础.md",
     "conflict-files-obsidian-git.md",
-    "English/Section4-Chunking/Chunks.md",
     "English/Section4-Chunking",
     "한국어/韩语基础.md",
-    "English/Section2-Words & Morphology/4.Words 词汇积累.md",
     "English/Section2-Words & Morphology/2. 词根.md",
     "English/Section3-Sentence & Grammar/4. 从句体系.md",
-    "English/Section3-Sentence & Grammar/2. 时态和语态.md",
     "汉语/汉语基础.md",
     "日本語/五十音图.md",
-    "English/Section3-Sentence & Grammar/1. 句子成分和句型.md",
     "English/Section3-Sentence & Grammar/3. 非谓语动词和情态动词.md",
-    "English/Section3-Sentence & Grammar/5. 特殊句式.md",
     "语言学",
     "汉语",
     "README.md",
